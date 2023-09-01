@@ -31,8 +31,8 @@
                 <sonar.token>
                       sqp_4f7a100a426d063382e29249eece850a1133eee0
                 </sonar.token>
-                <sonar.login>admin</sonar.login>
-                <sonar.password>Diet@123</sonar.password>
+                <!-- <sonar.login>admin</sonar.login>
+                <sonar.password>Diet@123</sonar.password> -->
             </properties>
         </profile>
      </profiles>
